@@ -1,5 +1,5 @@
 ###### Sorry, but this repository has been tranferred to **ColinLeo**, please check it here:
-###### **[](https://github.com/ColinLeo/highlight-words)**
+###### **[https://github.com/ColinLeo/highlight-words](https://github.com/ColinLeo/highlight-words)**
 
 ![How to install open-source chrome extension](https://github.com/ColinLeoDGL/highlight-words/blob/dev/res/img/guide_to_install_chrome_extension.gif)
 
